@@ -29,7 +29,7 @@ Parameters:
 
   AlertEmailAddress:
     Type: String
-    Default: connect@dataengineeringhub.in
+    Default: mohapatra.soumya25@gmail.com
     Description: >
       Email address subscribed to the pipeline alerts SNS topic. The subscription
       must be confirmed via the link sent to this address before alerts arrive.
